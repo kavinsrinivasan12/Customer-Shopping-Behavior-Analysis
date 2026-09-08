@@ -61,7 +61,7 @@ This project analyzes **3,900+ customer transactions** across multiple product c
    - Identify shipping type preferences by customer segment
    - **Impact:** Shipping cost optimization and delivery strategy
 
-## 🎯 Key Insights (Sample Findings)
+## 🎯 Key Insights
 
 ✓ Gender-based revenue disparity indicates opportunity for targeted marketing  
 ✓ Subscribers show distinct purchasing behavior patterns  
