@@ -97,11 +97,8 @@ Select * From top_3_products Where drnk <= 3;
 
 ## 📊 Power BI Dashboard Features
 
-- **Multi-page interactive dashboard** with customer and product analysis
+- **Interactive dashboard** with customer and product analysis
 - **KPI cards** for revenue, customer count, and subscription rates
-- **Advanced visualizations** including category breakdowns and trend analysis
-- **Filters & parameters** for dynamic exploration
-- **Drill-through capabilities** for deep-dive analysis
 
 ## 💡 Business Applications
 
