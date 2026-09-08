@@ -141,18 +141,6 @@ This project demonstrates proficiency in:
 - ✅ Data-driven decision-making frameworks
 - ✅ End-to-end analytics pipeline (Data → Analysis → Visualization)
 
-## 📧 Contact & Portfolio
+## 📧 Contact
 
 - **LinkedIn:** [linkedin.com/in/kavinsrinivasan12](https://linkedin.com/in/kavinsrinivasan12)
-- **GitHub:** [github.com/kavinsrinivasan12](https://github.com/kavinsrinivasan12)
-- **Portfolio:** [kavinsrinivasan12.github.io/portfolio/](https://kavinsrinivasan12.github.io/portfolio/)
-
-## 📝 License
-
-This project is open for portfolio and educational purposes.
-
----
-
-**Last Updated:** September 2026  
-**Project Type:** Data Analytics Portfolio  
-**Status:** ✅ Complete
